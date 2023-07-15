@@ -10,7 +10,7 @@
     "@testing-library/react": "14.0.0",
     "react-router-dom": "6.12.1",
     "react-scripts": "5.0.1",
-    "web-vitals": "3.3.2"
+    "web-vitals": "3.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
