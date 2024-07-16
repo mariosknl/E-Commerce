@@ -4,8 +4,8 @@
   "private": true,
   "dependencies": {
     "@chec/commerce.js": "2.8.0",
-    "@mui/material": "5.15.20",
-    "@mui/icons-material": "5.15.20",
+    "@mui/material": "5.16.1",
+    "@mui/icons-material": "5.16.1",
     "@testing-library/react": "16.0.0",
     "@testing-library/jest-dom": "6.4.6",
     "react-router-dom": "6.24.1",
