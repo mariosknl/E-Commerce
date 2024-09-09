@@ -6,8 +6,8 @@
     "@chec/commerce.js": "2.8.0",
     "@mui/material": "5.16.7",
     "@mui/icons-material": "5.16.7",
-    "@testing-library/react": "16.0.0",
-    "@testing-library/jest-dom": "6.4.8",
+    "@testing-library/react": "16.0.1",
+    "@testing-library/jest-dom": "6.5.0",
     "react-router-dom": "6.26.1",
     "react-scripts": "5.0.1",
     "web-vitals": "4.2.3"
